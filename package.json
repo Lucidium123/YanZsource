@@ -1,0 +1,32 @@
+{
+  "name": "yan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucid",
+  "license": "ISC",
+  "dependencies": {
+    "beautify": "0.0.8",
+    "canvas": "^2.6.1",
+    "custom-translate": "^2.2.8",
+    "discord.js": "^12.5.1",
+    "figlet": "^1.5.0",
+    "mal-scraper": "^2.11.2",
+    "mathjs": "^8.1.1",
+    "node-fetch": "^2.6.1",
+    "node-superfetch": "^0.1.10",
+    "novelcovid": "^3.0.0",
+    "os": "^0.1.1",
+    "pretty-ms": "^7.0.1",
+    "random-anime": "^1.0.6",
+    "random-anime-wallpapers": "^1.1.0",
+    "something-random-on-discord": "0.0.2",
+    "superagent": "^6.1.0",
+    "twemoji-parser": "^13.0.0",
+    "util": "^0.12.3",
+    "ytsr": "^3.2.1"
+  }
+}
